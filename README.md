@@ -1,2 +1,2 @@
 # Balloons-and-Bombs-and-Booleans
- GameUp Africe Bootcamp - Exercise 3 Solution
+GameUp Africa Bootcamp - Maliyo Academy - Solution of Exercise 3
